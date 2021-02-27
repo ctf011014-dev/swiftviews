@@ -1,0 +1,10 @@
+.container {
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+}
+
+img {
+    width: 70px;
+    height: 70px;
+}
